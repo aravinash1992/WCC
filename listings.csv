@@ -1,0 +1,137 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm
+13913,Holiday London DB Room Let-on going,54730,Alina,,Islington,51.56861,-0.1127,Private room,70,1,55,21-08-2025,0.3,2,331,10
+15400,Bright Chelsea  Apartment. Chelsea!,60302,Philippa,,Kensington and Chelsea,51.4878,-0.16813,Entire home/apt,149,4,97,05-04-2025,0.51,1,199,1
+17402,Very Central Modern 3-Bed/2 Bath By Oxford St W1,67564,Liz,,Westminster,51.52195,-0.14094,Entire home/apt,411,3,56,19-02-2024,0.32,2,80,0
+24328,Battersea live/work artist house,41759,Joe,,Wandsworth,51.47072,-0.16266,Entire home/apt,,7,95,05-07-2025,0.53,1,294,1
+36274,Bright 1 bedroom apt off brick lane in Shoreditch,133271,Hendryks,,Tower Hamlets,51.52322,-0.06979,Entire home/apt,210,5,15,06-09-2025,0.09,2,323,6
+36299,Kew Gardens 3BR house in cul-de-sac,155938,Geert,,Richmond upon Thames,51.48145,-0.28107,Entire home/apt,280,3,116,20-07-2025,0.64,1,324,6
+36660,You are GUARANTEED to love this,157884,Agri & Roger,,Haringey,51.58478,-0.16057,Private room,90,2,730,05-09-2025,4,2,289,39
+38605,SUNNY ROOM PRIVATE BATHROOM PLUS BREAKFAST,165579,Elisa & Dom,,Hammersmith and Fulham,51.50681,-0.23345,Private room,61,2,387,11-03-2024,2.14,3,9,0
+38610,Short Term Home,165579,Elisa & Dom,,Hammersmith and Fulham,51.50701,-0.23362,Entire home/apt,340,91,42,27-08-2023,0.26,3,317,0
+38995,SPACIOUS ROOM IN CONTEMPORARY STYLE FLAT,167281,Cesar,,Southwark,51.4786,-0.06114,Private room,49,1,72,26-07-2025,1.06,1,172,16
+39387,Stylish bedsit in Notting Hill ish flat.,168920,Alec,,Westminster,51.52605,-0.19942,Private room,,5,10,03-11-2019,0.07,1,0,0
+41445,2 Double bed apartment in quiet area North London,180838,Sean,,Barnet,51.61492,-0.25632,Entire home/apt,213,4,25,24-08-2024,0.15,1,162,0
+41509,Room in maisonette in chiswick,181028,Peter,,Hounslow,51.49351,-0.25568,Private room,,1,71,23-12-2019,0.41,1,0,0
+41870,Room in relaxed family house!,182993,Bimpe,,Waltham Forest,51.5584,0.00258,Private room,,2,2,02-07-2011,0.01,1,0,0
+42010,You Will Save Money Here,157884,Agri & Roger,,Barnet,51.5859,-0.16434,Private room,71,2,639,11-09-2025,3.5,2,265,45
+42692,Fabulous flat w garden and bkfst!,186510,Shelley,,Hammersmith and Fulham,51.50822,-0.21562,Private room,,1,0,,,1,0,0
+43129,Quiet Comfortable Room in Fulham,188138,Sylvan,,Hammersmith and Fulham,51.48164,-0.21082,Private room,48,3,266,31-08-2025,1.79,3,244,22
+43202,Beautiful 1 bed apt in Queens Park,188559,Calypso,,Brent,51.53031,-0.21713,Entire home/apt,,5,145,20-08-2025,0.91,1,18,11
+45163,Room with a garden,199530,Deb,,Camden,51.55312,-0.1975,Private room,76,2,1,01-11-2021,0.02,1,267,0
+45168,Best Part of Town -Home from Home!,199549,Lina,,Westminster,51.51812,-0.1977,Entire home/apt,,3,101,03-01-2020,0.55,1,0,0
+47192,Pleasant Single Room in zone 1.,212734,Dino,,Camden,51.52958,-0.14344,Private room,50,2,456,20-08-2024,2.5,1,258,0
+47687,Cosy Double studio in Zone 2 Hammersmith (6),216660,Boris,,Hammersmith and Fulham,51.4934,-0.22929,Entire home/apt,78,2,221,01-09-2025,1.22,11,4,47
+49970,Beautiful Small Studio Hammersmith,216660,Boris,,Hammersmith and Fulham,51.49462,-0.22923,Hotel room,79,1,263,28-08-2025,1.47,11,112,62
+52624,Close to Wimbledon All England Tennis -huge double,243610,Beverley,,Merton,51.419262,-0.2122613,Private room,86,2,19,14-07-2025,1.42,4,327,16
+56229,Cosy Double studio in Zone 2 Hammersmith (1),216660,Boris,,Hammersmith and Fulham,51.49547,-0.22942,Entire home/apt,78,5,173,26-08-2025,0.95,11,29,34
+63948,Cosy Double studio in Zone 2 Hammersmith (4),216660,Boris,,Hammersmith and Fulham,51.49547,-0.22864,Entire home/apt,89,3,227,31-08-2025,1.33,11,13,65
+66772,Cosy Double studio in Zone 2 Hammersmith (3),216660,Boris,,Hammersmith and Fulham,51.4937,-0.22914,Private room,79,3,229,01-09-2025,1.28,11,15,54
+67851,Sunny studio with park views,235606,Ben,,Hackney,51.54092,-0.05905,Entire home/apt,159,18,55,04-09-2025,0.35,1,135,7
+67934,NICE FAMILY HOME opposite NATURAL LANDSCAPED PARK,335716,Laura D,,Barnet,51.60268,-0.26268,Private room,40,5,25,03-01-2020,0.15,2,364,0
+69198,Spacious single room in quiet flat,345886,Alda,,Haringey,51.59031,-0.09408,Private room,53,3,13,24-05-2022,0.08,1,363,0
+72913,Dbl en suite @ Oval tube Sth London,379315,Matthew,,Lambeth,51.48128,-0.11593,Private room,,2,157,03-03-2020,0.89,1,0,0
+73431,2 bed/2 bath luxury flat with city view!,383525,Emi,,Lambeth,51.46161,-0.11023,Entire home/apt,117,3,110,25-08-2025,0.76,1,17,5
+78606,Peaceful Room Near Epping Forest,422362,Nicola,,Waltham Forest,51.57322,0.01045,Private room,106,2,2,26-09-2019,0.03,1,365,0
+78892,Bright single room in family home.,424230,Julia,,Southwark,51.46478,-0.08007,Private room,,7,59,04-06-2023,0.46,1,0,0
+79129,Double Room 2 Miles from Wimbledon in Morden SM4,425764,Danielle,,Merton,51.39648,-0.2117,Private room,35,1,169,14-10-2023,1.07,1,0,0
+79571,Chelsea Studio by Kings Road London,428600,Nicholas,,Kensington and Chelsea,51.49096,-0.16183,Entire home/apt,,2,12,03-07-2017,0.07,1,0,0
+80123,Pretty Self Contained Coach House,432648,Melanie,,Wandsworth,51.45173,-0.15556,Entire home/apt,110,2,178,14-07-2025,1.02,1,38,15
+81052,Bright spacious 2 bed in Islington,438948,Aslak,,Islington,51.53917,-0.10221,Entire home/apt,,6,10,06-04-2018,0.07,1,0,0
+81080,Luxury Self contained Studio Apt.,439154,Lucy,,Richmond upon Thames,51.40644,-0.33563,Entire home/apt,169,3,17,07-07-2025,0.18,5,322,1
+81410,Family-friendly Airbnb in Fitzrovia,441494,Fernando,,Camden,51.52139,-0.13932,Entire home/apt,417,3,270,01-08-2025,1.56,9,310,25
+81449,Stylish Central London Flat with Pool and Terrace,441736,Kris,,Tower Hamlets,51.51045,-0.066283,Entire home/apt,163,2,214,01-08-2025,1.22,5,264,8
+81951,LONDON DETACHED HOUSE*ElecGates etc,445322,Richard,,Havering,51.58388,0.15463,Entire home/apt,217,5,0,,,1,364,0
+83027,Spacious Bright Room in SE3,452174,Berna,,Greenwich,51.46709,0.0437,Private room,43,1,2,17-02-2024,0.02,1,197,0
+84223,Designer room Park Views 4 mins zone 1 station,460272,Antonia Clare,,Southwark,51.48668056,-0.107412792,Private room,57,2,460,08-08-2025,2.62,12,307,30
+85191,Maisonette in Central London Zone 1,466353,Elisabetta,,Lambeth,51.49168,-0.1157,Private room,75,3,586,17-08-2025,3.34,1,166,24
+92352,Flat in Islington,497172,Natalie,,Islington,51.54113,-0.09881,Entire home/apt,,2,79,24-08-2025,0.74,1,0,10
+92399,modern self contained flat islington,497366,Andrea,,Islington,51.55104,-0.08324,Entire home/apt,90,2,339,20-07-2025,1.96,2,328,39
+93015,2 bed West Kensington apartment,499704,Sarah,,Hammersmith and Fulham,51.49993,-0.21707,Entire home/apt,175,5,40,14-11-2024,0.24,1,175,1
+93783,Shown on T.V! Notting Hill Oasis,502496,Darshi Rowan And Tara,,Westminster,51.5186241,-0.1958713,Entire home/apt,350,5,27,02-07-2025,0.15,1,269,2
+94138,Lovely east London ground floor apartment,503548,Carl,,Tower Hamlets,51.52764,-0.05293,Entire home/apt,,2,43,02-01-2024,0.48,1,0,0
+97506,Lovely Victorian Room Streatham,497537,Maria,,Lambeth,51.42996,-0.12161,Private room,60,3,47,27-09-2024,0.27,1,362,1
+98541,Gorgeous Victorian Flat LONDON,519891,Alicja,,Haringey,51.57271,-0.13948,Entire home/apt,100,8,39,07-07-2025,0.24,1,363,3
+100479,DBL rm near Trendy Shoreth\Brick La,506748,Mireya,,Tower Hamlets,51.52819,-0.0561,Private room,,1,4,24-09-2015,0.03,1,0,0
+102565,South Bank Bijou Studio Flat,536025,Anne,,Lambeth,51.50551,-0.10952,Private room,120,5,403,04-08-2025,2.31,1,199,13
+107051,JESSIE the narrowboat in Little Venice,554519,Meg,,Westminster,51.52055,-0.18317,Entire home/apt,176,2,796,03-09-2025,4.6,1,277,67
+116268,Double Room (Unavailable for check in 9-11 July),586671,Joe,,Enfield,51.6114544,-0.121254352,Private room,36,7,39,31-05-2025,0.26,1,237,1
+117203,A stylish Victorian home in West London,255103,Olga,,Hammersmith and Fulham,51.50155001,-0.233002224,Entire home/apt,135,5,103,08-09-2025,0.62,1,126,12
+127652,Contemporary central London apt,134938,Ron,,Camden,51.55953,-0.14432,Entire home/apt,156,5,222,09-08-2025,1.28,1,169,6
+127860,Double bedroom in cottage Twickenham (sleeps 1-2),161720,Andy,,Richmond upon Thames,51.44777,-0.33962,Private room,,2,0,,,1,0,0
+131444,Apartment close to centre.,646165,Yevgeniy,,Lambeth,51.49147608,-0.111513613,Entire home/apt,105,21,152,24-08-2025,0.89,2,45,4
+137581,I Bedroom flat Tower of London,471088,Anthony,,City of London,51.51099,-0.07862,Entire home/apt,170,5,277,27-08-2025,1.6,1,92,28
+159736,A double Room 5mins from King's College Hospital,766056,Trevor,,Lambeth,51.46788,-0.09993,Private room,42,5,100,30-03-2025,0.58,4,301,1
+165336,Charming Flat in Notting Hill,761400,Nathan,,Kensington and Chelsea,51.51735,-0.21076,Entire home/apt,,1,258,14-09-2025,1.52,1,0,11
+168359,Stunning 2 Bed Apartment in Elephant & Castle,648725,Michele,,Southwark,51.49185,-0.08823,Entire home/apt,,2,9,02-01-2019,0.05,1,0,0
+170702,A Double Room with  River Views,814004,Marie,,Tower Hamlets,51.49686,-0.02627,Private room,,3,135,03-12-2019,0.78,1,0,0
+172731,Bright&Huge room close to Southside Wandsworth,824254,GIANFRANCO And RICCARDO,,Wandsworth,51.45033,-0.18978,Private room,39,2,22,16-10-2016,0.13,1,227,0
+173082,The Residential Suite Above Gallery,813141,Ingrid,,Hackney,51.53825378,-0.044086002,Entire home/apt,131,2,235,10-03-2025,1.37,8,161,9
+174635,1 bedroom in Vibrant Notting Hill,675616,Eric,,Kensington and Chelsea,51.51814,-0.21423,Entire home/apt,224,4,47,16-01-2024,0.28,1,363,0
+178519,Newly refurbished 2-bed apartment,1954110,Tariq,,Brent,51.53753,-0.24013,Entire home/apt,151,3,13,03-07-2016,0.1,1,365,0
+179312,Lovely 1 bed Apartment Islington on Tube Stop,858555,Larissa,,Islington,51.55191,-0.11497,Entire home/apt,,2,7,03-06-2018,0.07,1,0,0
+181664,Stunning 2 bedroom Fulham Riverside Flat Free WIFI,870749,Maz,,Hammersmith and Fulham,51.47368,-0.18217,Entire home/apt,198,2,48,30-06-2025,0.32,1,274,4
+182802,Quiet Double Room - Good for walks,876774,Heather,,Richmond upon Thames,51.43855,-0.32191,Private room,70,1,276,01-09-2025,1.68,1,354,12
+183128,Private bathroom & spacious double room,878083,Kyriacos,,Southwark,51.50038,-0.10001,Private room,93,2,249,12-09-2025,1.46,1,80,21
+190028,MODERN Self-Contained ARCHITECT FLAT,497366,Andrea,,Islington,51.55119,-0.08582,Entire home/apt,108,1,39,14-07-2025,0.38,2,329,6
+198258,Penthouse Living in East London,967537,Ryan,,Barking and Dagenham,51.5343,0.08178,Private room,45,2,42,08-07-2024,0.25,1,363,0
+198279,London Whitechapel Room with WIFI,967645,Radhika And Lorenzo,,Tower Hamlets,51.51462,-0.05969,Private room,44,5,289,01-08-2025,1.78,1,330,18
+200713,LOVELY & COZY ROOM WITH KITCHENETTE,968464,Catia,,Croydon,51.3843,-0.12723,Private room,23,3,77,13-08-2025,0.45,5,319,14
+203163,Long Stay Cute Studio zone 1,460272,Antonia Clare,,Southwark,51.48579,-0.10765,Private room,93,2,151,02-08-2025,0.89,12,272,23
+207542,Private ensuite room in Harringay,203343846,Angeles,,Haringey,51.5851,-0.10277,Private room,54,2,100,12-09-2025,0.59,1,60,27
+208952,PENDA'S MEAD HOUSE,1029332,Joan,,Hackney,51.55239,-0.0346,Private room,,2,0,,,1,0,0
+210010,Spacious 1 bedrm flat ideal location  FAST WiFI,1035217,Ksenia,,Westminster,51.51566,-0.17467,Entire home/apt,,7,12,27-10-2019,0.07,1,0,0
+214321,Room 20 min from central London,1106081,Xenia,,Lewisham,51.45359,0.00925,Private room,36,2,22,24-08-2025,0.13,2,348,10
+214755,"Luxury designer 2 bed flat, heart of Notting Hill",1026967,James,,Kensington and Chelsea,51.51146,-0.2021,Entire home/apt,,7,37,04-01-2025,0.47,2,179,1
+216350,Double room in family house - cost for 1 room only,1116804,Debbie,,Hammersmith and Fulham,51.47928,-0.22061,Private room,78,1,334,14-07-2025,1.97,4,355,5
+227502,Shoreditch Loft,204615,Mr,,Hackney,51.52853,-0.07728,Entire home/apt,151,3,147,03-09-2025,0.87,2,247,11
+228195,Bright sunny apartment on garden square,940283,Andrew,,Kensington and Chelsea,51.48829,-0.18905,Entire home/apt,95,30,71,05-09-2022,0.46,2,145,0
+228389,one Double bed room with en-suite facilities,1023326,Sunassee,,Croydon,51.36646,-0.12118,Private room,53,2,28,06-07-2025,1.54,3,362,6
+229684,Bright room on park near city 7,448365,Roland,,Lewisham,51.48793,-0.04204,Private room,,1,22,06-11-2016,0.16,3,0,0
+230839,Spacious loft conversion - Hackney,671259,Kiki,,Hackney,51.5368,-0.07753,Entire home/apt,,7,4,16-08-2012,0.02,1,0,0
+232240,Bright Beautiful 2 Bedroom Flat,1214746,Nicola,,Hammersmith and Fulham,51.49857212,-0.219898028,Entire home/apt,189,6,53,30-08-2025,0.31,1,342,12
+232983,Cozy double room,1219410,Kobi,,Southwark,51.48668,-0.10513,Private room,66,4,337,27-08-2025,1.99,3,172,33
+236956,Five minute walk to South Bank,979363,Donovan,,Lambeth,51.50363,-0.10926,Private room,71,1,597,08-05-2025,3.54,6,284,3
+238349,Beautiful one bed ground floor flat,1249927,Katherine,,Hammersmith and Fulham,51.49609,-0.22782,Entire home/apt,191,2,144,25-08-2025,0.88,1,165,7
+241975,Private room in London & cultural Islington,1269568,Iki,,Islington,51.56094,-0.10893,Private room,50,4,13,23-03-2024,0.18,2,338,0
+243077,Beautiful house in trendy E. London,1275907,Madeleine,,Hackney,51.55314,-0.04586,Entire home/apt,250,5,25,21-08-2024,0.15,4,71,0
+243093,Stunning double room own bathroom,1271134,Sophia,,Enfield,51.6371,-0.1186,Private room,380,10,11,24-09-2017,0.08,1,363,0
+246271,Stylish Garden Studio | Large Kitchen + Smart TV,565948,Claire Denise,,Tower Hamlets,51.53299,-0.0335,Entire home/apt,100,3,53,29-08-2025,0.32,4,14,1
+248291,Beautiful House Lower Clapton Hackney with garden,1273759,Genevieve,,Hackney,51.55532,-0.04932,Entire home/apt,160,30,18,28-12-2024,0.11,4,133,1
+249395,Beautiful family house near Hampstead Heath,1291505,Vanessa,,Islington,51.55468,-0.13524,Entire home/apt,,3,2,29-04-2015,0.01,1,0,0
+254996,Homely room in leafy Ealing.,1339807,Tina,,Ealing,51.52339,-0.31421,Private room,40,1,643,24-08-2025,3.81,1,320,49
+263822,2 Bedroom London East End Apartment,1384320,Steven,,Newham,51.51854,0.02291,Entire home/apt,130,3,45,26-05-2024,0.27,1,351,0
+264776,Huge Four Bedroom Apartment,1389063,Sue,,Lewisham,51.44306,-0.01948,Entire home/apt,303,3,70,14-07-2025,0.51,11,335,13
+264777,One Bedroom Apartment,1389063,Sue,,Lewisham,51.44284,-0.01997,Entire home/apt,116,3,25,26-08-2025,0.22,11,358,3
+264778,Two Bedroom Newly Refurbished Apartment,1389063,Sue,,Lewisham,51.44359,-0.02275,Entire home/apt,174,3,60,09-07-2025,0.43,11,352,4
+264779,Refurbished Two Bedroom Apartment,1389063,Sue,,Lewisham,51.44355,-0.02309,Entire home/apt,170,3,38,29-07-2025,0.31,11,341,3
+264780,Spacious refurbished 2 bedroom apt with balcony,1389063,Sue,,Lewisham,51.44333,-0.02307,Entire home/apt,187,3,55,01-07-2025,0.35,11,308,3
+264781,Two Bedrooms Garden Maisonette,1389063,Sue,,Lewisham,51.44204,-0.02149,Entire home/apt,148,3,9,10-08-2025,0.09,11,339,1
+264782,One Bedroom Garden Apartment,1389063,Sue,,Lewisham,51.44353,-0.02328,Entire home/apt,142,4,21,31-08-2025,0.24,11,347,6
+264783,Four Bedroom Garden Apartment,1389063,Sue,,Lewisham,51.44151,-0.02195,Entire home/apt,235,4,47,30-08-2025,0.32,11,337,6
+264789,Huge Three Bedroom Flat with parking and terrace,1389063,Sue,,Lewisham,51.44346,-0.02122,Entire home/apt,236,3,69,30-08-2025,0.54,11,314,6
+268398,Also five minutes to South Bank,979363,Donovan,,Lambeth,51.50287,-0.10937,Private room,66,1,563,15-05-2025,3.36,6,286,3
+270600,Patio Apartment in London (Twickenham),1416605,Emma,,Richmond upon Thames,51.44311,-0.33245,Entire home/apt,74,4,88,15-04-2025,0.59,3,139,7
+271122,Heathrow BNB - Home Away From Home!,1419096,Claudia,,Hillingdon,51.53097,-0.39891,Private room,,1,7,27-05-2017,0.05,4,0,0
+273941,Studio 20 min from center,1106081,Xenia,,Lewisham,51.45364,0.01077,Entire home/apt,50,1,44,25-07-2024,0.27,2,212,0
+276082,Bright Clean Double Room-Chingford,1442674,Tosi,,Waltham Forest,51.61782,-0.02283,Private room,,2,17,11-07-2015,0.1,2,0,0
+277580,2 Bedroom  Cottage (E) with garden London,381894,Edison Keith,,Hounslow,51.49254,-0.30935,Entire home/apt,122,3,15,29-08-2022,0.1,19,298,0
+278559,Cute 1 bdr flat quiet road central,1453552,Aya,,Westminster,51.51488,-0.19016,Entire home/apt,,5,6,01-09-2014,0.04,1,0,0
+282198,Georgian Apartment in Bloomsbury,1413029,Lucy,,Camden,51.52361,-0.11591,Private room,140,6,84,25-08-2025,0.51,1,6,8
+282299,Room in friendly house share,1471370,Jamie,,Hackney,51.55918,-0.07416,Private room,,14,0,,,1,0,0
+283569,Spacious luxury 2 bedroom apartment,1476754,Nina,,Ealing,51.5067,-0.24775,Entire home/apt,95,3,25,08-10-2022,0.17,3,241,0
+284423,Stylish apartment in trendy Dalston,1477718,Ellie,,Hackney,51.54696,-0.07016,Entire home/apt,117,5,37,28-06-2025,0.23,1,228,8
+284603,Notting Hill church stay in Heaven!,1481851,Tania,,Kensington and Chelsea,51.51464,-0.20004,Entire home/apt,,14,6,04-07-2022,0.04,1,0,0
+289422,Large single bedroom nr Canning Town (7 mins bus),862386,Leo And Veneranda,,Newham,51.52185,0.02417,Private room,32,7,66,29-06-2025,0.4,6,159,3
+289802,Single room near Canning Town (7 mins by bus),862386,Leo And Veneranda,,Newham,51.52185,0.02417,Private room,37,7,63,05-08-2025,0.38,6,218,7
+290923,Architect designed Camden canalside townhouse,1508385,Neema,,Camden,51.54039,-0.14282,Entire home/apt,,2,17,22-04-2018,0.12,1,0,0
+293275,Single Room in Creative House,1517741,Sarah,,Greenwich,51.46139,0.05421,Private room,40,2,0,,,2,348,0
+294247,Home from Home in the heart of London,1521435,Milena,,Hammersmith and Fulham,51.48641,-0.21277,Private room,118,2,235,23-06-2024,1.43,1,364,0
+294887,A people person awaits you here!,1527176,Gill,,Waltham Forest,51.57537,0.00536,Private room,48,2,79,05-07-2025,0.5,1,359,4
+296720,bedroom to rent in SW17 - London,1530293,Carolina,,Merton,51.41877,-0.16772,Private room,,1,0,,,1,0,0
+300333,london is waiting for you,1546859,Mohamed,,Hillingdon,51.56049,-0.40791,Private room,57,1,0,,,1,365,0
+300723,Stylish 3 Bed 2 Bath Apartment Gdn + cafe culture,1549137,Rita,,Haringey,51.58358,-0.1177,Entire home/apt,189,3,77,29-08-2025,0.47,1,323,6
+301631,Single Room for the Olympic Games!,1554006,Christopher,,Tower Hamlets,51.51806,-0.01719,Private room,,30,0,,,1,0,0
+306333,Charming 2-Bed Garden flat,1573870,Robert,,Hackney,51.5273129,-0.082860857,Entire home/apt,253,2,53,19-06-2025,0.5,2,42,7
+306405,Spacious Double Room in East London,1575800,Mary,,Barking and Dagenham,51.54072,0.15246,Private room,41,4,3,27-05-2012,0.02,1,365,0
+306677,Amazing view 2bed Zone1 central,1577254,Pm,,Southwark,51.49739,-0.10146,Entire home/apt,,5,216,29-02-2020,1.3,6,0,0
+306737,4 bedroom (+nursery) designer pad Belsize Park,1577723,Yael,,Camden,51.54655,-0.16495,Entire home/apt,529,4,28,03-01-2025,0.18,1,193,1
